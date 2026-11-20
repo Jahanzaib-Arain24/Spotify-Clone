@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Muhammad Jahanzaib**
 
-- 🌐 Portfolio: <a href="https://jahanzaib-20.netlify.app/" target="_blank">Jahanzaib-Portfolio</a>
+- 🌐 Portfolio: <a href="https://jahanzaib-24.vercel.app/" target="_blank">Jahanzaib-Portfolio</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/jahanzaib-arain/" target="_blank">@Jahanzaib-Arain</a>
 - 📧 **Email:** <a href="mailto:arainjhanzaib@gmail.com" target="_blank">arainjhanzaib@gmail.com</a>
 - 💻 GitHub: <a href="https://github.com/Jahanzaib-Arain24" target="_blank">@Jahanzaib-Arain24</a>
